@@ -90,3 +90,5 @@ If we think positive thoughts, we will become positive people.
 If we think negative thoughts, we will become negative people."""
 print(quote)
 print("\namount of 'e' used is " + str(quote.count("e"))) #.count displays amount of 'e' present in quote
+
+print("Test print for github")
